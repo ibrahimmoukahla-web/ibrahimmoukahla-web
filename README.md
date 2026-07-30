@@ -1,17 +1,19 @@
-<h3 align="center"> Hi there 👋</h3>
-
 <div align="center">
 
 # 👋 Hi, I'm Ibrahim Moukahla
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+Developer;UI%2FUX+Enthusiast;Building+Educational+Platforms;Future+Full-Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+Developer;UI%2FUX+Enthusiast;Building+Baccalaureate+Platform;Always+Learning+New+Things"/>
 
 <p>
-Passionate Front-End Developer from Algeria 🇩🇿 <br>
-Focused on building clean, responsive and user-friendly web applications with modern technologies.
+Passionate Front-End Developer from Algeria 🇩🇿<br>
+Building modern, responsive and user-friendly web applications.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=ibrahimmoukahla-web&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/ibrahimmoukahla-web?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/ibrahimmoukahla-web?affiliations=OWNER&style=for-the-badge" />
+</p>
 
 </div>
 
@@ -21,23 +23,17 @@ Focused on building clean, responsive and user-friendly web applications with mo
 
 ```javascript
 const ibrahim = {
-    location: "Algeria 🇩🇿",
-
-    role: "Front-End Developer",
-
-    currentFocus: [
-        "React",
-        "JavaScript ES6+",
-        "Responsive Design",
-        "UI/UX"
-    ],
-
-    currentlyBuilding:
-        "Baccalaureate Learning Platform",
-
-    nextGoal:
-        "Become a Professional Full-Stack Developer"
-}
+  location: "Algeria 🇩🇿",
+  role: "Front-End Developer",
+  learning: [
+    "React",
+    "JavaScript ES6+",
+    "UI/UX",
+    "Git & GitHub"
+  ],
+  currentlyBuilding: "Baccalaureate Learning Platform",
+  goal: "Become a Professional Full-Stack Developer"
+};
 ```
 
 ---
@@ -46,7 +42,7 @@ const ibrahim = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,figma,vscode,npm,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,figma,git,github,vscode,npm,linux" />
 
 </p>
 
@@ -56,9 +52,9 @@ const ibrahim = {
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahimmoukahla-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmoukahla-web&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -68,7 +64,7 @@ const ibrahim = {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ibrahimmoukahla-web&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,7 +74,7 @@ const ibrahim = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimmoukahla-web&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -88,26 +84,23 @@ const ibrahim = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ibrahimmoukahla-web&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 🛠 Current Project
+# 🎓 Current Project
 
-## 🎓 Baccalaureate Learning Platform
-
-### Features
+### Baccalaureate Learning Platform
 
 - 📚 Interactive Courses
-- 🎥 Video Lessons
 - 📝 Online Exams
+- 🎥 Video Lessons
 - 🤖 AI Assistant
-- 📊 Student Dashboard
+- 📱 Responsive Design
 - 🌙 Dark Mode
 - 🌍 Arabic & English
-- 📱 Fully Responsive
 
 ---
 
@@ -116,8 +109,8 @@ const ibrahim = {
 - ✅ Master React
 - 🔄 Learn TypeScript
 - 🔄 Learn Node.js
-- 🔄 Learn MongoDB
-- 🔄 Build Full-Stack Projects
+- 🔄 Learn Databases
+- 🔄 Build Full-Stack Applications
 - 🔄 Contribute to Open Source
 
 ---
@@ -126,12 +119,8 @@ const ibrahim = {
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://github.com/ibrahimmoukahla-web">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
@@ -140,8 +129,8 @@ const ibrahim = {
 
 <div align="center">
 
-### 💻 Keep Learning • Keep Building • Never Give Up 🚀
+### 💙 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;See+you+again!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=3B82F6&center=true&width=450&lines=Keep+Learning.;Keep+Building.;Never+Stop+Coding." />
 
 </div>
